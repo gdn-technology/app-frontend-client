@@ -1,0 +1,7 @@
+# CODEOWNERS
+# Define quién debe aprobar los cambios.
+# Se aplica en las ramas donde la regla tenga activo
+# "Require review from Code Owners" (en este proyecto: main).
+
+# Irvin es responsable de todo el repositorio
+* @IrvinNova
